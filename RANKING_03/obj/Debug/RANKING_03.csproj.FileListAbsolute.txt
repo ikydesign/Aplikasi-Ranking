@@ -1,0 +1,6 @@
+F:\Farhan\RANKING_03\RANKING_03\bin\Debug\RANKING_03.exe.config
+F:\Farhan\RANKING_03\RANKING_03\obj\Debug\RANKING_03.csprojResolveAssemblyReference.cache
+F:\Farhan\RANKING_03\RANKING_03\bin\Debug\RANKING_03.exe
+F:\Farhan\RANKING_03\RANKING_03\bin\Debug\RANKING_03.pdb
+F:\Farhan\RANKING_03\RANKING_03\obj\Debug\RANKING_03.exe
+F:\Farhan\RANKING_03\RANKING_03\obj\Debug\RANKING_03.pdb
